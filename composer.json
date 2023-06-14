@@ -4,6 +4,5 @@
     "type": "drupal-module",
     "homepage": "https://drupal.org/project/form_placeholder",
     "license": "GPL-2.0-or-later",
-    "minimum-stability": "dev",
     "require": {}
 }
