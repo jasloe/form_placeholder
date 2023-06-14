@@ -1,8 +1,13 @@
 {
-    "name": "jasloe/form_placeholder",
-    "description": "Use field labels as placeholders for all elements in chosen form.",
-    "type": "drupal-module",
-    "homepage": "https://drupal.org/project/form_placeholder",
-    "license": "GPL-2.0-or-later",
-    "require": {}
+  "name": "jasloe/form_placeholder",
+  "description": "Use field labels as placeholders for all elements in chosen form.",
+  "type": "drupal-module",
+  "license": "MIT",
+  "homepage": "https://github.com/jasloe/form_placeholder",
+  "authors": [
+    {
+      "name": "Jason Loeffler",
+      "email": "jason@minorscience.com"
+    }
+  ],
 }
