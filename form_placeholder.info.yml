@@ -4,3 +4,4 @@ package: 'User interface'
 core_version_requirement:  ^8 || ^9 || ^10
 type: module
 configure: form_placeholder.admin_settings
+version: '8.x-dev'
