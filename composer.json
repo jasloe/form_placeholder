@@ -4,12 +4,5 @@
     "description": "Use field labels as placeholders for all elements in chosen form.",
     "require": {
         "drupal/core": "^8 || ^9 || ^10"
-    },
-    "extra": {
-        "drupal": {
-            "services": {
-                "form_placeholder.services.yml": "^8 || ^9 || ^10"
-            }
-        }
     }
 }
