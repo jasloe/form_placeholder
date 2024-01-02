@@ -1,6 +1,6 @@
 name: 'Form Placeholder'
 description: 'Use field labels as placeholders for all elements in chosen form.'
 package: 'User interface'
-core_version_requirement:  ^8 || ^9 || ^10
+core_version_requirement: ^10
 type: module
 configure: form_placeholder.admin_settings
